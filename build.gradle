@@ -33,3 +33,6 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+
+// https://developer.phonepe.com/v1/docs/setting-up-test-accounts-8
